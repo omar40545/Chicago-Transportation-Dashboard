@@ -8,7 +8,7 @@ Chicago Data Portal.
 
 This project analyses 111,000+ traffic crash records (July 2025–July 2026) 
 and 3 years of CTA ridership data to surface infrastructure risk patterns 
-relevant to transportation planning and civil engineering work — the kind 
+relevant to transportation planning and civil engineering work; the kind 
 of analysis that supports agencies like IDOT, the Illinois Tollway, CDA, 
 and CTA.
 
