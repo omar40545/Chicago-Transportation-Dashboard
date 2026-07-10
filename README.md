@@ -25,12 +25,12 @@ data, styled by injury severity.
 
 ## Key Findings
 
-- 111,019 crashes recorded with valid coordinates over the analyzed period
+- 111,019 crashes recorded with valid coordinates over the analysed period
 - 26,000+ reported injuries; 97 fatalities
-- Majority of crashes occur in daylight conditions, suggesting volume-driven 
+- The majority of crashes occur in daylight conditions, suggesting volume-driven 
   rather than visibility-driven risk
 - CTA ridership shows a seasonal pattern, peaking in spring and dipping 
-  through summer months
+  through the summer months
 
 ## Data Sources
 
@@ -44,10 +44,10 @@ available via the City of Chicago Data Portal link above, or on request.
 
 ## Tools Used
 
-- **Python (pandas)** — data cleaning, filtering, type conversion
-- **ArcGIS Pro** — geocoding, spatial visualization
-- **Power BI** — interactive dashboard, KPI cards, trend analysis
-- **Git/GitHub** — version control and project hosting
+- **Python (pandas)** - data cleaning, filtering, type conversion
+- **ArcGIS Pro** - geocoding, spatial visualization
+- **Power BI** - interactive dashboard, KPI cards, trend analysis
+- **Git/GitHub** - version control and project hosting
 
 ## About
 
