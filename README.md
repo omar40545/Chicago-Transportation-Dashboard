@@ -14,7 +14,7 @@ and CTA.
 
 ## Dashboard Preview
 
-![Dashboard Overview](outputs/Screenshot 2026-07-10 105811.png)
+![Dashboard Overview](outputs/dashboard_overview.png)
 
 ## GIS Crash Map
 
