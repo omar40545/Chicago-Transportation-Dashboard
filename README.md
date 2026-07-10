@@ -14,11 +14,11 @@ and CTA.
 
 ## Dashboard Preview
 
-![Dashboard Overview](outputs/dashboard_overview.png)
+![Dashboard Overview](dashboard_overview.png)
 
 ## GIS Crash Map
 
-![Crash Map](outputs/layout.pdf)
+![Crash Map](crash_map.png)
 
 Built in ArcGIS Pro using XY Table to Point geocoding on crash coordinate 
 data, styled by injury severity.
